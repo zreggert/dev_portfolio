@@ -81,7 +81,7 @@ nav ul li .res-link:hover {
 }
 
 .hero {
-    background-image: url("../resources/images/zack-valleyoffire.JPG");
+    background-image: url("../images/zack-valleyoffire.JPG");
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -257,7 +257,7 @@ section h2 {
 
     .mobile-hero {
         display: block;
-        background: url("./images/railroad_tracks.jpg");
+        background: url("../images/railroad_tracks.jpg");
         height: 100vh;
         width: 100%;
         background-size: cover;
