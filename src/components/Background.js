@@ -5,8 +5,8 @@ import '../styles/styles.css';
 function Background() {
     return (
         <div>
-            <figure class="hero"></figure>
-            <figure class="mobile-hero"></figure>
+            <figure className="hero"></figure>
+            <figure className="mobile-hero"></figure>
         </div>
     )
 }
