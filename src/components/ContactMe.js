@@ -4,8 +4,8 @@ import '../styles/styles.css';
 
 function ContactMe() {
     return (
-        <div>
-             <section class="contact-me hide" id="contact-me">
+        <main>
+             <section class="contact-me" id="contact-me">
                 <h2>Contact Me</h2>
                 <ul>
                     <li>Email: zreggert@gmail.com</li>
@@ -18,7 +18,7 @@ function ContactMe() {
                     </li>
                 </ul>
             </section>
-        </div>
+        </main>
     )
 }
 

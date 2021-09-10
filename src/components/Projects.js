@@ -4,8 +4,8 @@ import '../styles/styles.css';
 
 function Projects() {
     return (
-        <div>
-            <section class="projects hide" id="projects">
+        <main>
+            <section class="projects" id="projects">
                 <h2>Projects</h2>
                 <div class="key-projects">
                     <div class="project-container">
@@ -66,7 +66,7 @@ function Projects() {
                     </div>
                 </div>
             </section>
-        </div>
+        </main>
     )
 }
 

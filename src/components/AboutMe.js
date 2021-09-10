@@ -5,8 +5,8 @@ import '../styles/styles.css';
 
 function AboutMe() {
     return (
-        <div>
-            <section className="about-me hide" id="about-me">
+        <main>
+            <section className="about-me" id="about-me">
                 <h2>About Me</h2>
                 <p>
                     Hi! I'm Zack and I am a full stack developer from Atlanta, Georgia.
@@ -17,7 +17,7 @@ function AboutMe() {
                     design more wonderful projects with the online community.
                 </p>
             </section>
-        </div>
+        </main>
     )
 }
 
