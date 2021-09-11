@@ -11,8 +11,10 @@ function AboutMe() {
                 <p>
                     Full Stack Developer with a Web Development certificate from Georgia Tech University with
                     skills in JavaScript and the MERN stack. Experienced service industry professional with strong communication
-                    skills and ability to work under pressure.\n
-                    
+                    skills and ability to work under pressure.
+                 </p>
+                 <br />
+                 <p>   
                     Hi! I'm Zack and I am a full stack developer from Atlanta, Georgia.
                     I began learning code after the 2020 corona virus pandemic left me without a job
                     for months and I became determined to learn a skill that would allow me to
