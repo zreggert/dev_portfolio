@@ -39,7 +39,7 @@ aside {
 }
 
 nav {
-    padding-top: 50px;
+    padding-top: 25px;
 }
 
 nav ul li {
@@ -53,6 +53,10 @@ nav ul li button {
     color: whitesmoke;
     text-decoration: none;
     font-family: 'Changa';
+}
+
+nav ul li a {
+    font-size: 20px;
 }
 
 
