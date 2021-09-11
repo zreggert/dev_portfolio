@@ -7,6 +7,7 @@ import Navbar from './components/Navbar';
 import AboutMe from './components/AboutMe';
 import ContactMe from './components/ContactMe';
 import Projects from './components/Projects';
+import Footer from './components/Footer';
 
 
 
@@ -29,6 +30,7 @@ function App() {
                 <Route path="/contact-me">
                     <ContactMe />
                 </Route>
+                <Footer />
             </div>
         </Router>
            

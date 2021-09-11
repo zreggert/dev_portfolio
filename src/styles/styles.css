@@ -109,6 +109,29 @@ section h2 {
     width: 100%;
 }
 
+footer {
+    position: fixed;
+    width: 100%;
+    height: 3rem;
+    bottom: 0;
+    background-color: #36454f;
+    z-index: 15;
+    padding-top: .75rem;
+    text-align: center;
+}
+
+footer a i {
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 1rem;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+footer a i:hover {
+    color: #4558c4f8;
+}
+
 .hide {
     display: none;
 }
@@ -364,6 +387,14 @@ section h2 {
 
     .res-span res-link-mobile:visited {
         color:whitesmoke;
+    }
+
+    footer {
+        height: 2rem;
+    }
+
+    footer a i {
+        font-size: 15;
     }
 
 }
