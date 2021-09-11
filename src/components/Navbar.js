@@ -24,7 +24,7 @@ function Navbar() {
                         <Link className="nav-btn" type="button" to="/contact-me">Contact Me</Link>
                     </li>
                     <li>
-                        <button className="nav-btn" type="button" name="resume"><a className="res-link" href="zachary_eggert_resume.pdf">My Resume</a></button>
+                        <button className="nav-btn" type="button" name="resume"><a className="res-link" href="/zachary_eggert_resume.pdf">My Resume</a></button>
                     </li>
                 </ul>
             </nav>
