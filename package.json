@@ -1,6 +1,5 @@
 {
   "name": "react_portfolio",
-  "homepage": "https://zreggert.github.io/dev_portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
