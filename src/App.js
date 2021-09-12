@@ -19,15 +19,15 @@ function App() {
                 <Background />
                 <Header />
                 <Navbar />
-                <Route exact path="/">
+                <Route path="/">
                 </Route>
-                <Route exact path="/about-me">
+                <Route path="/about-me">
                     <AboutMe />
                 </Route>
-                <Route exact path="/projects">
+                <Route path="/projects">
                     <Projects />
                 </Route>
-                <Route exact path="/contact-me">
+                <Route path="/contact-me">
                     <ContactMe />
                 </Route>
                 
