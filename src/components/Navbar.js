@@ -7,7 +7,7 @@ function Navbar() {
     return (
         <aside>
             <figure>
-                <img className="profile-pic" src="images/zack_full_stack_dev.jpg" alt="Zachary Eggert"/>
+                <img className="profile-pic" src="./images/zack_full_stack_dev.jpg" alt="Zachary Eggert"/>
             </figure>
             <nav>
                 <ul>

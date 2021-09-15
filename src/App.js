@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route } from "react-router-dom";
+import { createBrowserHistory} from 'history';
 
 import Background from './components/Background';
 import Header from './components/Header';
@@ -39,3 +40,6 @@ function App() {
 }
 
 export default App;
+export const history = createBrowserHistory({
+    basename: process.env.PUBLIC_URL
+});
