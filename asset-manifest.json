@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dev_portfolio/static/css/main.647f9d4b.chunk.css",
+    "main.js": "/dev_portfolio/static/js/main.4d6ba9ce.chunk.js",
+    "main.js.map": "/dev_portfolio/static/js/main.4d6ba9ce.chunk.js.map",
+    "runtime-main.js": "/dev_portfolio/static/js/runtime-main.fb2ff02d.js",
+    "runtime-main.js.map": "/dev_portfolio/static/js/runtime-main.fb2ff02d.js.map",
+    "static/js/2.d103a77c.chunk.js": "/dev_portfolio/static/js/2.d103a77c.chunk.js",
+    "static/js/2.d103a77c.chunk.js.map": "/dev_portfolio/static/js/2.d103a77c.chunk.js.map",
+    "index.html": "/dev_portfolio/index.html",
+    "static/css/main.647f9d4b.chunk.css.map": "/dev_portfolio/static/css/main.647f9d4b.chunk.css.map",
+    "static/js/2.d103a77c.chunk.js.LICENSE.txt": "/dev_portfolio/static/js/2.d103a77c.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/dev_portfolio/static/media/zack-valleyoffire.30fb25cc.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb2ff02d.js",
+    "static/js/2.d103a77c.chunk.js",
+    "static/css/main.647f9d4b.chunk.css",
+    "static/js/main.4d6ba9ce.chunk.js"
+  ]
+}
